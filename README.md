@@ -1,3 +1,5 @@
+
+
 ## Original Package Description
 
 Moduł obsługuje płatności internetowe realizowane przez bramkę płatniczą firmy Blue Media.
