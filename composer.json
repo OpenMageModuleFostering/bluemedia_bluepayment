@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/BlueMedia_BluePayment",
+    "name": "OpenMageModuleFostering\/BlueMedia_BluePayment",
     "type": "magento-module",
     "license": "GPL-3.0",
     "homepage": "",
-    "description": "Moduł obsługuje płatności internetowe realizowane przez bramkę płatniczą firmy Blue Media.",
+    "description": "Modu\u0142 obs\u0142uguje p\u0142atno\u015bci internetowe realizowane przez bramk\u0119 p\u0142atnicz\u0105 firmy Blue Media.",
     "authors": [
-    {
-        "name": "BlueMedia",
-        "email": "info@bm.pl"
-    }
-],
+        {
+            "name": "BlueMedia",
+            "email": "info@bm.pl"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
